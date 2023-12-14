@@ -10,7 +10,7 @@ Certainly, here are the step-by-step instructions for setting up and running the
 
 2. **Download ChromeDriver**:
    - Download the appropriate ChromeDriver version for your operating system from the official website(https://chromedriver.chromium.org/downloads)
-   - Direct link for windows(https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win64/chromedriver-win64.zip).
+   - Direct link for windows(https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.71/win64/chromedriver-win64.zip).
    - Save the ChromeDriver executable in a directory of your choice.
 
 3. **Install Requirements**:
